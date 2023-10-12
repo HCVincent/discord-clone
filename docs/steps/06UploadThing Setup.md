@@ -1,0 +1,1 @@
+https://docs.uploadthing.com/getting-started
