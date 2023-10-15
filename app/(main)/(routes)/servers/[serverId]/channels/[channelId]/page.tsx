@@ -10,7 +10,6 @@ interface ChannelIdPageProps {
     channelId: string;
   };
 }
-
 const ChannelIdPage = async ({ params }: ChannelIdPageProps) => {
   const profile = await currentProfile();
   if (!profile) {
